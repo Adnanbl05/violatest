@@ -1,0 +1,6 @@
+{
+  "name": "vl test token",
+  "symbol": "vlt",
+  "description": "Dvl",
+  "image": "https://raw.githubusercontent.com/Adnanbl05/violatest/refs/heads/main/Leonardo_Kino_XL_Create_a_vibrant_animestyle_logo_for_a_memcoi_3%20(1).jpg"
+}
